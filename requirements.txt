@@ -1,0 +1,7 @@
+requests
+pandas
+numpy
+tweepy
+nltk
+matplotlib
+sklearn
